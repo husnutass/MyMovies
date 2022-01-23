@@ -11,13 +11,15 @@
 - <a href="#license">License</a>
 
 ## About
-** MyMovies** is a simple iOS app that displays the searched movies.
+**MyMovies** is a simple iOS app that displays the searched movies.
 
 ## Project Tech Stack
 - Xcode: Version 13.1
 - Language: Swift 5.5.1
 - Minimum iOS Version: 15
 - Design Pattern: MVVM
+- Dependency Manager: Swift Package Manager
+- Dependencies: **Kingfisher**
 
 ## Some Highlighted Things
 - Fits perfect small or big device sizes
